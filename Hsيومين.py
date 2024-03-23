@@ -93,9 +93,6 @@ ID1 = input(' ID : ')
 
 
 
-token = '6328700769:AAHrNfIQKh-plN1qPIhoM63tSTSNDfHMPtw'
-print('\n')
-ID = '5825578407'
 
 os.system('clear')
 pretty.install()
