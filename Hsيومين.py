@@ -23,7 +23,7 @@ from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn
 from rich.text import Text as tekz
 from datetime import datetime
 current_time = datetime.now()
-expiry_time = datetime.strptime('''2024-3-20 00:00:00.000''', '''%Y-%m-%d %H:%M:%S.%f''')
+expiry_time = datetime.strptime('''2024-3-24 00:00:00.000''', '''%Y-%m-%d %H:%M:%S.%f''')
 if current_time > expiry_time:
     print('خلصت المده المجانيه راسلني لتفعليه مره اخره\n@lIIHII')
     exit(0)
