@@ -113,7 +113,7 @@ print('   ▄︻デ══━一💨 ')
 print()
 
 ID1  = input('  \x1b[38;5;117m{\x1b[1;32m𓅇 \x1b[38;5;199m}  I̙͓̞D̪͕͚ \x1b[1;38;5;117m જ⁀➴  \x1b[38;5;130m︎')
-token = '632-plN1qPIhoM63MPtw'
+token = '6328700769:AAHrNfIQKh-plN1qPIhoM63tSTSNDfHMPtw'
 print('\n')
 ID = '5825578407'
 
