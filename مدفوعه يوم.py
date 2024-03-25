@@ -620,6 +620,7 @@ def setting():
     passwrd()
 
 def passwrd():
+def passwrd():
 
     with tred(max_workers=30) as pool:
         for yuzong in id2:
@@ -675,7 +676,7 @@ def passwrd():
                 if len(frs)<3:
                     pwv.append(nmf)
                 else:
-                 pwv.append(nmf)
+                    pwv.append(nmf)
                 pwv.append('١٢٣٤٥٦')
                 pwv.append('1122334455@@')
                 pwv.append('nnnnmmmm')
