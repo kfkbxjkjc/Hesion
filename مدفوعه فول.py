@@ -1,3 +1,32 @@
+from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn
+from rich.text import Text as tekz
+from datetime import datetime
+current_time = datetime.now()
+expiry_time = datetime.strptime('''2024-3-29 00:00:00.000''', '''%Y-%m-%d %H:%M:%S.%f''')
+if current_time > expiry_time:
+    print('خلصت المده المجانيه راسلني لتفعليه مره اخره\n@lIIHII')
+    exit(0)
+
+G = '\033[1;32m'
+R = '\033[1;31m'
+own_id =""
+tele_bot=''   
+
+
+import requests,time,pyfiglet,datetime
+now = datetime.datetime.today()
+
+now = datetime.datetime.today()
+mm = str(now.month)
+dd = str(now.day)
+yyyy = str(now.year)
+hour = str(now.hour)
+mi = str(now.minute)
+ss = str(now.second)
+t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
+
+
+hours = (now.hour)
 Z = '\033[1;31m' #احمر
 R = '\033[1;31m' #احمر
 X = '\033[1;33m' #اصفر
@@ -133,32 +162,7 @@ from rich import pretty
 from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn
 from rich.text import Text as tekz
 from datetime import datetime
-current_time = datetime.now()
-expiry_time = datetime.strptime('''2024-3-29 00:00:00.000''', '''%Y-%m-%d %H:%M:%S.%f''')
-if current_time > expiry_time:
-    print('خلصت المده المجانيه راسلني لتفعليه مره اخره\n@lIIHII')
-    exit(0)
 
-G = '\033[1;32m'
-R = '\033[1;31m'
-own_id =""
-tele_bot=''   
-
-
-import requests,time,pyfiglet,datetime
-now = datetime.datetime.today()
-
-now = datetime.datetime.today()
-mm = str(now.month)
-dd = str(now.day)
-yyyy = str(now.year)
-hour = str(now.hour)
-mi = str(now.minute)
-ss = str(now.second)
-t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
-
-
-hours = (now.hour)
 
 
 import requests,bs4,json,os,sys,random,datetime,time,re
