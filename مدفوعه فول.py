@@ -1,59 +1,3 @@
-import os
-import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base64
-from rich.table import Table as me
-from rich.console import Console as sol
-from bs4 import BeautifulSoup as sop
-from bs4 import BeautifulSoup as parser
-from bs4 import BeautifulSoup as par
-from concurrent.futures import ThreadPoolExecutor as tred
-from rich.console import Group as gp
-from rich.panel import Panel as panel
-from rich.panel import Panel as nel
-from rich import print as cetak
-from concurrent.futures import ThreadPoolExecutor as BrayennnXD 
-from rich.panel import Panel
-from rich.markdown import Markdown as mark
-from rich.columns import Columns as col
-from rich.tree import Tree
-from rich import print as rprint
-from rich import print as prints
-from rich import pretty
-from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn
-from rich.text import Text as tekz
-from datetime import datetime
-current_time = datetime.now()
-expiry_time = datetime.strptime('''2024-2-21 00:00:00.000''', '''%Y-%m-%d %H:%M:%S.%f''')
-if current_time > expiry_time:
-    print('خلصت المده المجانيه راسلني لتفعليه مره اخره\n@lIIHII')
-    exit(0)
-
-G = '\033[1;32m'
-R = '\033[1;31m'
-own_id =""
-tele_bot=''   
-
-
-import requests,time,pyfiglet,datetime
-now = datetime.datetime.today()
-
-now = datetime.datetime.today()
-mm = str(now.month)
-dd = str(now.day)
-yyyy = str(now.year)
-hour = str(now.hour)
-mi = str(now.minute)
-ss = str(now.second)
-t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
-
-
-hours = (now.hour)
-
- 
- 
-
-
-hours = (now.hour)
 Z = '\033[1;31m' #احمر
 R = '\033[1;31m' #احمر
 X = '\033[1;33m' #اصفر
@@ -189,7 +133,32 @@ from rich import pretty
 from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn
 from rich.text import Text as tekz
 from datetime import datetime
+current_time = datetime.now()
+expiry_time = datetime.strptime('''2024-3-20 00:00:00.000''', '''%Y-%m-%d %H:%M:%S.%f''')
+if current_time > expiry_time:
+    print('خلصت المده المجانيه راسلني لتفعليه مره اخره\n@lIIHII')
+    exit(0)
 
+G = '\033[1;32m'
+R = '\033[1;31m'
+own_id =""
+tele_bot=''   
+
+
+import requests,time,pyfiglet,datetime
+now = datetime.datetime.today()
+
+now = datetime.datetime.today()
+mm = str(now.month)
+dd = str(now.day)
+yyyy = str(now.year)
+hour = str(now.hour)
+mi = str(now.minute)
+ss = str(now.second)
+t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
+
+
+hours = (now.hour)
 
 
 import requests,bs4,json,os,sys,random,datetime,time,re
